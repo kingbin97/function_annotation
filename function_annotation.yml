@@ -1,0 +1,26 @@
+#   conda env create -f function_annotation.yml
+name: function_annotation
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - conda-forge::python=3.10.12=hd12c33a_0_cpython
+  - bioconda::hmmer=3.4=hdbdd923_0
+  - bioconda::csvtk=0.28.0=h9ee0642_0
+  - bioconda::eggnog-mapper=2.1.12=pyhdfd78af_0
+  - bioconda::perl-bioperl=1.7.8=hdfd78af_1
+  - conda-forge::ruby=3.2.2=hff50039_0
+  - conda-forge::parallel=20230722=ha770c72_0
+  - conda-forge::openjdk=17.0.9=h4260e57_0
+  - conda-forge::pandas=2.1.3=py310hcc13569_0
+  - conda-forge::r-ggplot2=3.4.1=r41hc72bb7e_0
+  - conda-forge::r-dplyr=1.1.2=r41ha503ecb_0
+  - conda-forge::goatools=1.3.11=pyhd8ed1ab_0
+  - bioconda::kofamscan=1.3.0=hdfd78af_2
+  - conda-forge::r-VennDiagram
+  - conda-forge::r-UpSetR
+  - conda-forge::r-argparse
+  - conda-forge::r-tidyr
+  - conda-forge::r-ggsci
+  - conda-forge::r-getopt
+  - conda-forge::r-reshape2
