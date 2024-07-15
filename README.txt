@@ -1,4 +1,4 @@
-数据库包括：nr、uniprto、GO、COG、KOG、KEGG、OS（水稻）、ATH（拟南芥）、PLANT_TFDB、STRINGDB、iTAK
+数据库包括：nr、uniprot、GO、COG、KOG、KEGG、OS（水稻）、ATH（拟南芥）、PLANT_TFDB、STRINGDB、iTAK
 具体等后续更新，文件较大如有急需分享，可私聊QQ：719837929
 
 更新历史：
